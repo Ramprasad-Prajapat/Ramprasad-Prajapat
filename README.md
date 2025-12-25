@@ -7,25 +7,25 @@
   <img src="https://komarev.com/ghpvc/?username=Ramprasad-Prajapat&label=Profile%20views&color=0e75b6&style=flat" alt="Ramprasad-Prajapat" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ramprasad-Prajapat&margin-w=10" alt="Ramprasad-Prajapat" />
-  </a>
-</p>
+
+<!-- <p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ramprasad-Prajapat" alt="GitHub Trophies" />
+</p> -->
+
+
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **3rd Year BTech Computer Science Engineering Student**
-- 💼 **Java Backend Developer & Aspiring Software Engineer**
+- 💼 **Aspiring Java Backend Developer & Software Engineer**
 - 🔭 Currently working on **Java Backend & Console/Web-Based Projects**
 - 🌱 Currently learning **Advanced Java (OOP, JDBC, Servlets, Spring Boot)**
 - 👯 Looking to collaborate on **Java, Backend & Full Stack Projects**
 - 🤝 Seeking guidance to grow as a **Professional Software Engineer**
 - 💬 Ask me about **Java, Backend Development, Git & GitHub**
 - 📫 Reach me at **ramprasadprajapat709@gmail.com**
-- ⚡ Fun fact: **Consistent learning makes a strong software engineer 🚀**
+- ⚡ Fun fact: **I enjoy learning and building projects 😊**
 
 ---
 
@@ -39,37 +39,40 @@
 ---
 
 ## 🛠 Languages and Tools
-<p align="left">
+<p align="left" style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center;">
   <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
   </a>
+
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
   </a>
+
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
   </a>
+
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
   </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
   </a>
+
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
   </a>
 </p>
+
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramprasad-Prajapat&show_icons=true&layout=compact" />
-</p>
+</p> -->
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramprasad-Prajapat" />
