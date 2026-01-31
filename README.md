@@ -75,8 +75,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 - **Top Language:** ![Top language](https://img.shields.io/github/languages/top/Ramprasad-Prajapat/java-full-stack-development?color=blue)
 - **Repo Stars:** ![Repo stars](https://img.shields.io/github/stars/Ramprasad-Prajapat/java-full-stack-development?style=social)
 - **Followers:** ![Followers](https://img.shields.io/github/followers/Ramprasad-Prajapat?style=social)
