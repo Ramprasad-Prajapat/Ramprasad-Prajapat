@@ -1,7 +1,7 @@
-![logo](https://github.com/Ramprasad-Prajapat/Ramprasad-Prajapat/blob/main/github_logo.webp)
+![logo](https://github.com/Ramprasad-Prajapat/Ramprasad-Prajapat/blob/main/github_logo.webp )
 
 <h1 align="center">Hi 👋, I'm Ramprasad Prajapat</h1>
-<h3 align="center">Java Backend Developer | Software Engineer | BTech CSE Student</h3>
+<h3 align="center">Java Full Stack Developer | Software Engineer | BTech CSE Student</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ramprasad-Prajapat&label=Profile%20views&color=0e75b6&style=flat" alt="Ramprasad-Prajapat" />
@@ -18,14 +18,14 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **Aspiring Java Backend Developer & Software Engineer**
+- 💼 **Aspiring Java Full Stack Developer & Software Engineer**
 - 🔭 Currently working on **Java Backend & Console/Web-Based Projects**
 - 🌱 Currently learning **Advanced Java (OOP, JDBC, Servlets, Spring Boot)**
 - 👯 Looking to collaborate on **Java, Backend & Full Stack Projects**
 - 🤝 Seeking guidance to grow as a **Professional Software Engineer**
-- 💬 Ask me about **Java, Backend Development, Git & GitHub**
-- 📫 Reach me at **ramprasadprajapat709@gmail.com**
-- ⚡ Fun fact: **I enjoy learning and building projects 😊**
+- - 💬 Ask me about **Java, Backend Development, Databases, Git & GitHub**  
+- 📫 Contact me: **ramprasadprajapat709@gmail.com**  
+- ⚡ Fun fact: **I love creating projects and solving challenging problems 😊*
 
 ---
 
@@ -38,42 +38,48 @@
 
 ---
 
-## 🛠 Languages and Tools
-<p align="left" style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center;">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
-  </a>
+## 🛠 Skills & Tools
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
-  </a>
+<p align="left" style="display: flex; gap: 25px; flex-wrap: wrap; align-items: center;">
 
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
-  </a>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-  </a>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Servlets-6DB33F?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-339933?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge&logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-527FFF?style=for-the-badge&logo=java&logoColor=white" />
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  </a>
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/SpringCore-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
-  </a>
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </p>
 
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<!-- <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramprasad-Prajapat&show_icons=true&layout=compact" />
-</p> -->
+## 📊 GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramprasad-Prajapat" />
-</p>
+- **Top Language:** ![Top language](https://img.shields.io/github/languages/top/Ramprasad-Prajapat/java-full-stack-development?color=blue)
+- **Repo Stars:** ![Repo stars](https://img.shields.io/github/stars/Ramprasad-Prajapat/java-full-stack-development?style=social)
+- **Followers:** ![Followers](https://img.shields.io/github/followers/Ramprasad-Prajapat?style=social)
+- **Forks:** ![Forks](https://img.shields.io/github/forks/Ramprasad-Prajapat/java-full-stack-development?style=social)
+
+
